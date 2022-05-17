@@ -22,13 +22,15 @@
 
 
 .cabecalho{
-    height: 250px;
+    padding-top: 30px;
+    max-height: 250px;
     background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     margin: auto;
+   
   
 
 
@@ -36,11 +38,12 @@
 
 
 .titulo{
+
     font-family:var(--fonte2);
     font-weight: small;
     font-weight: bold;
     font-variant: small-caps;
-    font-size: 10vw;
+    font-size: 7vw;
     color:rgb(255, 255, 255);
     letter-spacing: 5px;
     text-shadow: 5px 5px 10px rgba(4, 0, 255, 0.267);
@@ -55,7 +58,7 @@
     text-decoration: none;
     font-family: var(--fonte1);
     font-size: 2vw;
-    padding-bottom: 15px;
+    padding-bottom: 35px;
 
 
 }
