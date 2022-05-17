@@ -23,15 +23,12 @@
 
 .cabecalho{
     padding-top: 30px;
-    max-height: 250px;
+    max-height: 200px;
     background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin: auto;
-   
-  
 
 
 }
